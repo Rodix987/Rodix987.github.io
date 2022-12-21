@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(197, 245, 23);
+}
+.site-title {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.aboutp {
+    font-family: Arial;
+}
+
+.social-icon {
+    margin: 5px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    size: 10px;
+}
